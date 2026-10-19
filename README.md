@@ -175,7 +175,7 @@ Phase 5 — Ship
 **Install**
 
 ```bash
-git clone https://github.com/GITHUB_USER/one-shot-agent-builder.git
+git clone https://github.com/John-W-Callaghan/one-shot-agent-builder.git
 cd one-shot-agent-builder
 
 python3 -m venv .venv
@@ -559,7 +559,7 @@ to calibrate.
 Issues and pull requests are welcome.
 
 ```bash
-git clone https://github.com/GITHUB_USER/one-shot-agent-builder.git
+git clone https://github.com/John-W-Callaghan/one-shot-agent-builder.git
 cd one-shot-agent-builder
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e .
