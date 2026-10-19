@@ -1,0 +1,7 @@
+Build a modern todo application with the following requirements:
+- Next.js 14 with App Router and TypeScript
+- Supabase for authentication and database
+- Users can create, edit, delete, and reorder todos
+- Todos have priorities (low, medium, high) and due dates
+- Clean, minimal UI with dark mode support
+- Mobile-responsive design
