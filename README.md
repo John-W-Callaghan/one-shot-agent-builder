@@ -1,4 +1,4 @@
-# 🔥 Agent Forge — One-Shot Agent Builder
+# 🔥 One-Shot Development tool
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue?logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/powered%20by-Claude-d97757)
